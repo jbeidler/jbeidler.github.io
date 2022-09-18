@@ -32,7 +32,7 @@ navbar-links:
 collections:
     foods:
         output: true
-    faqs:
+    faq:
         output: true
 
 ################
