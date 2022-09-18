@@ -3,10 +3,10 @@ name: Frequently Asked Questions
 ---
 
 <ul>
-{% for faq in site.faqs %}
+{% for item in site.faq %}
   <li>
-    <a href="{{ faq.url }}">
-      {{ faq.name }}
+    <a href="{{ item.url }}">
+      {{ item.name }}
     </a>
   </li>
 {% endfor %}

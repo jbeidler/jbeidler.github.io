@@ -23,9 +23,6 @@ navbar-links:
   About: "about"
   Foods: "foods"
   FAQ: "faq"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 #######################
 # --- Collections --- #
