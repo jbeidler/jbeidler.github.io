@@ -32,8 +32,8 @@ navbar-links:
 collections:
     foods:
         output: true
-    faq:
-        output: false
+    faqs:
+        output: true
 
 ################
 # --- Logo --- #
