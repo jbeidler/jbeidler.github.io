@@ -20,9 +20,10 @@ author: Joshua Beidler RDN
 ###############################################
 
 navbar-links:
-  About: "about"
   Foods: "foods"
   FAQ: "faq"
+  About: "about"
+  Contact: "contact"
 
 #######################
 # --- Collections --- #
