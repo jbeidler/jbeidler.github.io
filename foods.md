@@ -2,11 +2,12 @@
 name: Foods
 ---
 
+<ul>
 {% for food in site.foods %}
-  <h2>
+  <li>
     <a href="{{ food.url }}">
       {{ food.name }}
     </a>
-  </h2>
-  <p>{{ food.content | markdownify }}</p>
+  </li>
 {% endfor %}
+</ul>
