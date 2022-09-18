@@ -21,6 +21,7 @@ author: Joshua Beidler RDN
 
 navbar-links:
   About: "about"
+  Foods: "foods"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
