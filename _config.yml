@@ -21,7 +21,7 @@ author: Joshua Beidler RDN
 
 navbar-links:
   Foods: "foods"
-  FAQ: "faq"
+  FAQ: "faqs"
   About: "about"
   Contact: "contact"
 
@@ -32,7 +32,7 @@ navbar-links:
 collections:
     foods:
         output: true
-    faq:
+    faqs:
         output: true
 
 ################
