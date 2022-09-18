@@ -10,6 +10,6 @@ Contact me using the form below. I will respond as soon as possible.
      <input type="hidden" name="_subject" value="New submission!">
      Name: <input type="text" name="name" required>
      Email: <input type="email" name="email" required>
-     Message: <textarea name="message" rows="4" cols="50" required>
+     Message: <textarea name="message" rows="4" cols="50" required></textarea>
      <button type="submit">Send</button>
 </form>
