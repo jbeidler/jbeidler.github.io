@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-css: form.css
+css: assets/css/form.css
 ---
 
 Contact me using the form below. I will respond as soon as possible.
